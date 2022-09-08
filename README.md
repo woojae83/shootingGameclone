@@ -1,2 +1,2 @@
-# shuttingGameclone
-shuttingGameclone
+# shootingGameclone
+shootingGameclone
